@@ -8,12 +8,11 @@ Spots JSON
 The data that was shown on the map, limited to 1000 items. There are 1795 unique name/lat/lon items in the captures.
 
 ### Data
-* [spots_20120523041528.json](spots_20120523041528.json)
-* [spots_20130116211326.json](spots_20130116211326.json)
+* [spots_merged.json](spots_merged.json)
 
 ### Sources
-* https://web.archive.org/web/20120523041528/http://www.nerdydaytrips.com/map/spots/
-* https://web.archive.org/web/20130116211326/http://nerdydaytrips.com/map/spots/
+* [spots_20120523041528.json](spots_20120523041528.json) - https://web.archive.org/web/20120523041528/http://www.nerdydaytrips.com/map/spots/
+* [spots_20130116211326.json](spots_20130116211326.json) - https://web.archive.org/web/20130116211326/http://nerdydaytrips.com/map/spots/
 
 Search-spots JSON
 -----------------
