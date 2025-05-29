@@ -1,7 +1,7 @@
 An effort to recover all the data from nerdydaytrips.com
 ========================================================
 
-Because nerdydaytrips.org now exists and we want it all back.
+Because [nerdydaytrips.org](nerdydaytrips.org) now exists and we want it all back.
 
 Spots JSON
 ----------
